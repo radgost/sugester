@@ -11,9 +11,9 @@ Przykładowe forum sugestii z własnym szablonem: http://sugester.fakturownia.pl
 Przykładowa baza wiedzy z własnym szablonem: http://pomoc.fakturownia.pl
 
 
-Przykładowe szablony Faktur:
+Przykładowy szablon (skórka) dla Sugestera:
 
-HTML: https://github.com/radgost/fakturownia/blob/master/sugester-fakturownia.hbs
+HTML: https://github.com/radgost/sugester/blob/master/sugester-fakturownia.hbs
 
 
 Szablony e-maili
