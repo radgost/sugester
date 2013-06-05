@@ -4,16 +4,13 @@
 Szablony dla forum sugestii i bazy wiedzy
 ---------------
 
-W Sugesterze można tworzyc dowolne szablony. 
+W Sugesterze można tworzyc dowolne szablony. Można je dodać w opcji: Ustawienia -> Konfiguracja Forum -> Wygląd i opisy -> Własny szablon strony
 
 Przykładowe forum sugestii z własnym szablonem: http://sugester.fakturownia.pl
-
 Przykładowa baza wiedzy z własnym szablonem: http://pomoc.fakturownia.pl
 
 
-Przykładowy szablon (skórka) dla Sugestera:
-
-HTML: https://github.com/radgost/sugester/blob/master/sugester-fakturownia.hbs
+Szablony tworzy się w HTML, przykładowy szablon (skórka) dla Sugestera: https://github.com/radgost/sugester/blob/master/sugester-fakturownia.hbs
 
 
 Szablony e-maili
