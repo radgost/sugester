@@ -10,21 +10,10 @@ Przykładowe forum sugestii z własnym szablonem: http://sugester.fakturownia.pl
 Przykładowa baza wiedzy z własnym szablonem: http://pomoc.fakturownia.pl
 
 
-Szablony tworzy się w HTML, przykładowy szablon (skórka) dla Sugestera: https://github.com/radgost/sugester/blob/master/sugester-fakturownia.hbs.html
+Szablony tworzy się w HTML, przykładowy szablon (sprosty i zaawansowany) : https://github.com/radgost/siteor/tree/master/allegro
 
 
 Szablony e-maili
 ---------------
 `TODO`
-
-Import danych
----------------
-`TODO`
-
-
-API
----------------
-
-Opis API znajduje się tu: [Sugester API](http://sugester.pl/api)
-
 
